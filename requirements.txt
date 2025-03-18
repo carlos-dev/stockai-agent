@@ -1,3 +1,10 @@
 yfinance
 crewai
 langchain
+langchain_openai
+langchain_community
+pandas
+duckduckgo-search
+streamlit
+ta
+plotly

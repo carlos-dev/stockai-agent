@@ -8,3 +8,4 @@ duckduckgo-search
 streamlit
 ta
 plotly
+sqlite3 >= 3.35.0
